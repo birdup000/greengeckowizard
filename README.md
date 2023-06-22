@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![greengeckowizard's GitHub stats](https://github-readme-stats.vercel.app/api?username=greengeckowizard)](https://github.com/greengeckowizard/github-readme-stats)
+![Greengecko's GitHub stats](https://github-readme-stats.vercel.app/api?username=greengeckowizard&show_icons=true&theme=radical)
 <!--
 **greengeckowizard/greengeckowizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
